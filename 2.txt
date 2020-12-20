@@ -1,5 +1,9 @@
 
 this is my second file
 i want to edit this file
+<<<<<<< HEAD
 this is second user edit file
 
+=======
+to push into master
+>>>>>>> a9bd98ff6007e6ac4cc2c648ae413e48be7789f6
