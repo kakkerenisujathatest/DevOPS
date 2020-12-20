@@ -3,6 +3,7 @@ this is my second file
 i want to edit this file
 <<<<<<< HEAD
 this is second user edit file
+this is my commit by original user
 
 =======
 to push into master
